@@ -6,6 +6,7 @@
 
 Will not need to wire a matrix since it is only 9 keys per side, can wire directly to each gpio.
 
+Ben Vallack keymap for 18key: https://github.com/benvallack/zmk-config-piano/tree/main
 
 
 Parts:
