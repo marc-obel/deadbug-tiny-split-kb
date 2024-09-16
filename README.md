@@ -16,3 +16,5 @@ Parts:
 - 18 choc switches and keycaps
   
 
+## Inspiration
+https://x.com/MohitBhoite
